@@ -1,2 +1,2 @@
-# retail-sa-api
-Retail SA API
+# Retail SA API
+Retail SA API documentation
